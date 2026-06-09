@@ -74,7 +74,7 @@ above uses `32768`) so requests aren't truncated.
 
 ## Reasoning models
 
-For reasoning-tuned models such as Qwen3, set `reasoning_budget: 0` in the
+For reasoning-tuned models such as Qwen3.5, set `reasoning_budget: 0` in the
 model's `config` to disable the thinking budget, which otherwise interferes
 with aider's code edits.
 
