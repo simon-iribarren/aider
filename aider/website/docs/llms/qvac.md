@@ -5,7 +5,7 @@ nav_order: 500
 
 # QVAC
 
-Aider can connect to local models served by [QVAC](https://qvac.com), an
+Aider can connect to local models served by [QVAC](https://qvac.tether.io), an
 open-source runtime for local-first, peer-to-peer AI. QVAC exposes an
 OpenAI-compatible HTTP server, so aider talks to it like any other
 [OpenAI compatible API](/docs/llms/openai-compat.html).
